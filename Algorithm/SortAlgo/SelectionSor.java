@@ -42,3 +42,7 @@ public class SelectionSort {
     }
 }
 
+//It divides the array into two parts: sorted and unsorted.
+//Repeatedly finds the minimum element from the unsorted part and puts it at the beginning.
+
+//Time complexity: O(n²)
