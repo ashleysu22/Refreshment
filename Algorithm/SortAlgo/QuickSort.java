@@ -66,3 +66,8 @@ public class QuickSort {
     }
 }
 
+//Best case: O(n log n)
+
+//Average case: O(n log n)
+
+//Worst case: O(n²) (though rare, especially with optimizations like random pivot)
